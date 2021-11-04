@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/dWvafltntfp5q2ryFDQN7OC5oVptiJWev3thYfmyoX3ZaoaRUmyfMb6SzqvtokaNZuKxUhifNKD1xwGEGyRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\Desktop\\projetoIntegradorUNIP\\HotelariaWeb\\HotelariaWeb\\HotelariaWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
